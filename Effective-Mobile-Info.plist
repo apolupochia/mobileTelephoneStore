@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MarkPro.ttf</string>
+		<string>MarkPro-Thin.ttf</string>
+		<string>MarkPro-Medium.ttf</string>
+		<string>MarkPro-Heavy.ttf</string>
+		<string>pico-8.ttf</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>ColorBack</string>
+		<key>UIImageName</key>
+		<string>EccomerceConsept300x300</string>
+	</dict>
+</dict>
+</plist>
